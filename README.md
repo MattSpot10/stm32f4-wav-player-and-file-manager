@@ -6,4 +6,5 @@
 - Watch [my youtube video](https://www.youtube.com/watch?v=kCj0-1BtSTE) on this project!
 
 
-![image](https://github.com/MattSpot10/stm32f4-wav-player-and-file-manager/blob/main/wav%20player.jpg?raw=true)
+![image](https://github.com/MattSpot10/stm32f4-wav-player-and-file-manager/blob/main/documentation/wav%20player.jpg?raw=true)
+
